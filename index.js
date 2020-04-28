@@ -1,6 +1,6 @@
 const dbConfig  = require("./utils/mongo-config");
 
-const newTrackingUser = require("./typeTrackingUser_OK.json");
+const newTrackingUser = require("./DATABASE.json");
 
 
 const compareTo = (newTracking, dataActual) => {
@@ -25,6 +25,7 @@ const searchDiff = (db,dataActual, newTrackingData) => {
     } else dbConfig.insertTracking(db, newTracking);
     
   });
+  return true;
 };
 
 (async () => {
