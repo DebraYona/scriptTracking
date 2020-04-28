@@ -1,0 +1,20 @@
+[
+  {
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "01", "value": "Logueo" },
+    "subModule": { "code": "01", "value": "Iniciar sesión" },
+    "detail": { "code": "01", "value": "Ingreso a la plataforma" }
+  },
+  {
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "02", "value": "Cambio de RUC" }
+  },
+  {
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "09", "value": "Periodo búsqueda 7 días atrás" }
+  }
+]

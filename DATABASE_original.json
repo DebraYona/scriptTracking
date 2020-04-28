@@ -1,0 +1,420 @@
+[
+  {
+    "_id": "5e3e354bc4a976c0c192780b",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "05", "value": "Organiza códigos personalizado" },
+    "detail": {
+      "code": "31",
+      "value": "No guardar cambios códigos personalizado"
+    }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927804",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "06", "value": "Selección código comercio" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782a",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "45", "value": "Descargar reporte ventas" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927834",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "10", "value": "Eliminar Procesando" },
+    "detail": { "code": "55", "value": "Eliminar Procesando - No exitoso" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192780c",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "11", "value": "Periodo búsqueda 12 meses atrás" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192780d",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "12", "value": "Detalle ventas de hoy" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927818",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "20", "value": "Detalle ventas por semana" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927824",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "42", "value": "Estado de la venta 'En proceso'" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927835",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "56", "value": "Eliminar Listo para descarga" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927807",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "05", "value": "Organiza códigos personalizado" },
+    "detail": { "code": "30", "value": "Eliminar código personalizado" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c19277ff",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "01", "value": "Logueo" },
+    "subModule": { "code": "01", "value": "Iniciar sesión " },
+    "detail": { "code": "01", "value": "Ingreso a la plataforma" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192780f",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "06", "value": "Reportes" },
+    "detail": { "code": "32", "value": "Mis ventas" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927801",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "03", "value": "Búsqueda por código" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781d",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "39", "value": "Periodo ventas" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781f",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "03", "value": "Organiza tus códigos" },
+    "detail": { "code": "23", "value": "Organiza códigos personalizado" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927820",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "04", "value": "Crear código por ubicación" },
+    "detail": { "code": "24", "value": "Organiza códigos personalizado" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927813",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "03", "value": "Búsqueda por código" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782f",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "50", "value": "Bandeja descarga - Buscar" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927821",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "40", "value": "Estado de la venta 'todas'" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927810",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "14", "value": "Detalle ventas este mes" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192780e",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "13", "value": "Detalle ventas esta semana" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927827",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "05", "value": "Organiza códigos personalizado" },
+    "detail": { "code": "28", "value": "Crear código personalizado" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927832",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "53", "value": "Eliminar Procesando" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927812",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "15", "value": "Detalle ventas 7 días atrás" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782e",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "49", "value": "Bandeja descarga" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927808",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "08", "value": "Organiza tus códigos" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927806",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "07", "value": "Selección agrupación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927815",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "18", "value": "Detalle Ventas observadas" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927823",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "04", "value": "Crear código por ubicación" },
+    "detail": { "code": "25", "value": "Editar código por ubicación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927826",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "04", "value": "Crear código por ubicación" },
+    "detail": {
+      "code": "27",
+      "value": "No guardar cambios códigos por ubicación"
+    }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927814",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "16", "value": "Detalle ventas 4 semanas atrás" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927816",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "04", "value": "Cambio de moneda soles" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927817",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "19", "value": "Detalle ventas por dia" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927819",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "06", "value": "Selección código comercio" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781b",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "07", "value": "Selección agrupación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927828",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "43", "value": "Estado de la venta 'observada'" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927837",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "11", "value": "Eliminar Listo para descarga" },
+    "detail": {
+      "code": "58",
+      "value": "Eliminar Listo para descarga - No exitoso"
+    }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927800",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "02", "value": "Cambio de RUC" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927805",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "05", "value": "Organiza códigos personalizado" },
+    "detail": { "code": "29", "value": "Editar código personalizado" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782b",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "08", "value": "Descargar reporte ventas" },
+    "detail": { "code": "46", "value": "Descargar reporte excel" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927833",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "10", "value": "Eliminar Procesando" },
+    "detail": { "code": "54", "value": "Eliminar Procesando - Exitoso" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927802",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "04", "value": "Cambio moneda soles" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927803",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "05", "value": "Cambio moneda dolares" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192780a",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "10", "value": "Periodo búsqueda 4 semanas atrás" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781a",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "21", "value": "Detalle ventas por mes" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782c",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "08", "value": "Descargar reporte ventas" },
+    "detail": { "code": "47", "value": "Descargar reporte txt" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192782d",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "48", "value": "Búsqueda ID operación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927836",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "11", "value": "Eliminar Listo para descarga" },
+    "detail": {
+      "code": "57",
+      "value": "Eliminar Listo para descarga - Exitoso"
+    }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781c",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "08", "value": "Organiza tus códigos" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927825",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "04", "value": "Crear código por ubicación" },
+    "detail": { "code": "26", "value": "Eliminar código por ubicación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927829",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "44", "value": "Estado de la venta 'anulada'" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927830",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "51", "value": "Bandeja descarga - Refresh" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927809",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "02", "value": "Dashboard" },
+    "subModule": { "code": "02", "value": "Dashboard" },
+    "detail": { "code": "09", "value": "Periodo búsqueda 7 días atrás" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927811",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "02", "value": "Cambio de RUC" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c192781e",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "03", "value": "Organiza tus códigos" },
+    "subModule": { "code": "03", "value": "Organiza tus códigos" },
+    "detail": { "code": "22", "value": "Organiza códigos por ubicación" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927822",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "41", "value": "Estado de la venta 'Depositada'" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927831",
+    "type": { "code": "01", "value": "Vista 1" },
+    "module": { "code": "05", "value": "Bandeja descarga" },
+    "subModule": { "code": "09", "value": "Bandeja descarga" },
+    "detail": { "code": "52", "value": "Bandeja descarga - Descargar" }
+  },
+  {
+    "_id": "5e3e354bc4a976c0c1927838",
+    "type": { "code": "02", "value": "Vista 2" },
+    "module": { "code": "04", "value": "Reportes" },
+    "subModule": { "code": "07", "value": "Mis ventas" },
+    "detail": { "code": "05", "value": "Cambio moneda dólares" }
+  }
+]
