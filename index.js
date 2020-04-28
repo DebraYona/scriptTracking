@@ -18,14 +18,18 @@ const compareTo = (newTracking, dataActual) => {
 };
 
 const searchDiff = (db,dataActual, newTrackingData) => {
-  newTrackingData.forEach((newTracking) => {
+  const prima = newTrackingData.map( async (newTracking) => {
     const existe = compareTo(newTracking, dataActual);
-    if (existe) {
-      dbConfig.updateTrackings(db, newTracking);
-    } else dbConfig.insertTracking(db, newTracking);
-    
+    try {
+      if (existe) {
+        await dbConfig.updateTrackings(db, newTracking);
+       } else await dbConfig.insertTracking(db, newTracking);
+       
+    } catch (error) {
+      return true;
+    }
   });
-  return true;
+  return Promise.all(prima);
 };
 
 (async () => {
@@ -36,7 +40,7 @@ const searchDiff = (db,dataActual, newTrackingData) => {
 
      const dataActual= await dbConfig.listTrackingExists(dbConnection);
      
-     searchDiff(dbConnection,dataActual, newTrackingUser);
+     await searchDiff(dbConnection,dataActual, newTrackingUser);
 
   } catch (error) {
     console.log(error);

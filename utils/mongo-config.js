@@ -48,11 +48,11 @@ const updateTrackings = (db, tracking) => {
   let update = { $push: tracking };
   const options ={ upsert: false ,returnNewDocument: true };
 
-  db.collection(COLLECTION_NAME).updateOne(query, update, options);
+  return db.collection(COLLECTION_NAME).updateOne(query, update, options);
 };
 const insertTracking = (db , tracking) => {
   
-  db.collection(COLLECTION_NAME).insertOne(tracking);
+  return db.collection(COLLECTION_NAME).insertOne(tracking);
 }
 
 const listTrackingExists = (db) =>{
